@@ -1,0 +1,8 @@
+0:Healthy
+1:Anthracnose
+2:Bacterial Canker
+3:Cutting Weevil
+4:Die Back
+5:Gall Midge
+6:Powdery Mildew
+7:Sooty Mould
