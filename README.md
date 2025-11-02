@@ -1,16 +1,13 @@
-# mangoleaf_disease_ai
+# Klasifikasi Penyakit Daun Mangga (YOLOv11 + Flutter)
 
-A new Flutter project.
+Proyek ini mengimplementasikan model **YOLOv11** untuk mendeteksi dan mengklasifikasikan penyakit pada daun mangga berdasarkan citra.  
+Selain itu, proyek ini juga mencakup **integrasi dengan aplikasi Flutter**, sehingga hasil deteksi dapat ditampilkan langsung di perangkat mobile.
 
-## Getting Started
+## 🎯 Tujuan
+Membangun sistem **identifikasi otomatis penyakit daun mangga** berbasis *deep learning* dan *computer vision* yang dapat digunakan oleh petani, peneliti, maupun pengguna umum untuk memantau kondisi kesehatan tanaman secara cepat dan akurat.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Teknologi yang Digunakan
+- **Python** (Training & Inference Model YOLOv11)
+- **YOLOv11** untuk deteksi dan klasifikasi citra daun mangga
+- **Flutter** untuk antarmuka aplikasi mobile
+- **Google collab** sebagai lingkungan pengembangan
