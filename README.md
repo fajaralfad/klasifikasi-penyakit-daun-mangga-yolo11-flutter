@@ -10,4 +10,4 @@ Membangun sistem **identifikasi otomatis penyakit daun mangga** berbasis *deep l
 - **Python** (Training & Inference Model YOLOv11)
 - **YOLOv11** untuk deteksi dan klasifikasi citra daun mangga
 - **Flutter** untuk antarmuka aplikasi mobile
-- **Google collab** sebagai lingkungan pengembangan
+- **Google collab dan vscode** sebagai lingkungan pengembangan
