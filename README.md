@@ -4,7 +4,7 @@ Proyek ini mengimplementasikan model **YOLOv11** untuk mendeteksi dan mengklasif
 Selain itu, proyek ini juga mencakup **integrasi dengan aplikasi Flutter**, sehingga hasil deteksi dapat ditampilkan langsung di perangkat mobile.
 
 ## 🎯 Tujuan
-Membangun sistem **identifikasi otomatis penyakit daun mangga** berbasis *deep learning* dan *computer vision* yang dapat digunakan oleh petani, peneliti, maupun pengguna umum untuk memantau kondisi kesehatan tanaman secara cepat dan akurat.
+Membangun sistem **identifikasi otomatis penyakit daun mangga yang dapat digunakan oleh petani, peneliti, maupun pengguna umum untuk memantau kondisi kesehatan tanaman secara cepat dan akurat.
 
 ## ⚙️ Teknologi yang Digunakan
 - **Python** (Training & Inference Model YOLOv11)
