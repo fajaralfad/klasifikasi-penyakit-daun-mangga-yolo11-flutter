@@ -1,13 +1,43 @@
-# Klasifikasi Penyakit Daun Mangga (YOLOv11 + Flutter)
+# 🍃 Klasifikasi Penyakit Daun Mangga (YOLOv11 + Flutter)
 
-Proyek ini mengimplementasikan model **YOLOv11** untuk mendeteksi dan mengklasifikasikan penyakit pada daun mangga berdasarkan citra.  
-Selain itu, proyek ini juga mencakup **integrasi dengan aplikasi Flutter**, sehingga hasil deteksi dapat ditampilkan langsung di perangkat mobile.
+![YOLO](https://img.shields.io/badge/YOLOv11-Detection%20Model-0095FF?logo=yolo)
+![Flutter](https://img.shields.io/badge/Flutter-Mobile%20App-02569B?logo=flutter)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)
+![VSCode](https://img.shields.io/badge/VSCode-Dev%20Env-007ACC?logo=visualstudiocode)
+![GoogleColab](https://img.shields.io/badge/Google%20Colab-Training%20Env-F9AB00?logo=googlecolab)
+
+---
+
+## 📋 Deskripsi
+Proyek ini mengimplementasikan model **YOLOv11** untuk **mendeteksi dan mengklasifikasikan penyakit pada daun mangga** berdasarkan citra digital.  
+Model dikembangkan dan di-*train* menggunakan **Python**, kemudian diintegrasikan ke aplikasi **Flutter** agar hasil deteksi dapat ditampilkan langsung pada perangkat mobile.
+
+---
 
 ## 🎯 Tujuan
-Membangun sistem **identifikasi otomatis penyakit daun mangga yang dapat digunakan oleh petani, peneliti, maupun pengguna umum untuk memantau kondisi kesehatan tanaman secara cepat dan akurat.
+Membangun sistem **identifikasi otomatis penyakit daun mangga** yang dapat membantu:
+- 🌱 Petani dalam memantau kesehatan tanaman
+- 🔬 Peneliti dalam mengumpulkan data visual penyakit
+- 📱 Pengguna umum dalam mengenali gejala penyakit daun mangga secara cepat dan akurat
+
+---
 
 ## ⚙️ Teknologi yang Digunakan
-- **Python** (Training & Inference Model YOLOv11)
-- **YOLOv11** untuk deteksi dan klasifikasi citra daun mangga
-- **Flutter** untuk antarmuka aplikasi mobile
-- **Google collab dan vscode** sebagai lingkungan pengembangan
+| Komponen | Teknologi |
+|-----------|------------|
+| 🧠 Model Deteksi | **YOLOv11** |
+| 💻 Bahasa Pemrograman | **Python 3.11** |
+| 📱 Aplikasi Mobile | **Flutter** |
+| 🧩 Framework & Tools | **VS Code**, **Google Colab** |
+| 🧰 Library Pendukung | **Ultralytics YOLO**, **OpenCV**, **TensorFlow Lite (opsional)** |
+
+---
+
+## 🚀 Fitur Utama
+- 🔍 **Deteksi otomatis penyakit daun mangga** dengan YOLOv11  
+- 📸 **Integrasi kamera Flutter** untuk input citra secara real-time  
+- ⚡ **Inference cepat dan ringan** menggunakan model teroptimasi  
+- 📊 **Hasil prediksi langsung tampil di aplikasi mobile**  
+- ☁️ **Dukungan deployment ke cloud (opsional)**  
+
+---
