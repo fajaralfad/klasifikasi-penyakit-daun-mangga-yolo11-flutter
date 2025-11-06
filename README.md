@@ -2,7 +2,7 @@
 
 ![YOLO](https://img.shields.io/badge/YOLOv11-Detection%20Model-0095FF?logo=yolo)
 ![Flutter](https://img.shields.io/badge/Flutter-Mobile%20App-02569B?logo=flutter)
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python)
 ![VSCode](https://img.shields.io/badge/VSCode-Dev%20Env-007ACC?logo=visualstudiocode)
 ![GoogleColab](https://img.shields.io/badge/Google%20Colab-Training%20Env-F9AB00?logo=googlecolab)
 
@@ -29,15 +29,13 @@ Membangun sistem **identifikasi otomatis penyakit daun mangga** yang dapat memba
 | 💻 Bahasa Pemrograman | **Python 3.11** |
 | 📱 Aplikasi Mobile | **Flutter** |
 | 🧩 Framework & Tools | **VS Code**, **Google Colab** |
-| 🧰 Library Pendukung | **Ultralytics YOLO**, **OpenCV**, **TensorFlow Lite (opsional)** |
+| 🧰 Library Pendukung | **Ultralytics YOLO**, **OpenCV**, **TensorFlow Lite** |
 
 ---
 
 ## 🚀 Fitur Utama
 - 🔍 **Deteksi otomatis penyakit daun mangga** dengan YOLOv11  
-- 📸 **Integrasi kamera Flutter** untuk input citra secara real-time  
 - ⚡ **Inference cepat dan ringan** menggunakan model teroptimasi  
 - 📊 **Hasil prediksi langsung tampil di aplikasi mobile**  
-- ☁️ **Dukungan deployment ke cloud (opsional)**  
 
 ---
