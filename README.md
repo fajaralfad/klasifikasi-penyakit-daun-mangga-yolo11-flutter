@@ -14,14 +14,6 @@ Model dikembangkan dan di-*train* menggunakan **Python**, kemudian diintegrasika
 
 ---
 
-## 🎯 Tujuan
-Membangun sistem **identifikasi otomatis penyakit daun mangga** yang dapat membantu:
-- 🌱 Petani dalam memantau kesehatan tanaman
-- 🔬 Peneliti dalam mengumpulkan data visual penyakit
-- 📱 Pengguna umum dalam mengenali gejala penyakit daun mangga secara cepat dan akurat
-
----
-
 ## ⚙️ Teknologi yang Digunakan
 | Komponen | Teknologi |
 |-----------|------------|
